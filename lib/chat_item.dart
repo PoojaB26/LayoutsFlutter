@@ -3,13 +3,11 @@ import 'package:flutter/material.dart';
 class ChatItem extends StatelessWidget{
 
   final leftSection = new Container(
-    child: new SizedBox(
-      child: new CircleAvatar(
-        backgroundImage:
-        new NetworkImage("https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg"),
-        backgroundColor: Colors.lightGreen,
-        radius: 24.0,
-      ),
+    child: new CircleAvatar(
+      backgroundImage:
+      new NetworkImage("https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg"),
+      backgroundColor: Colors.lightGreen,
+      radius: 24.0,
     ),
   );
 

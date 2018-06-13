@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:layouts_flutter/chat_item_screen.dart';
 import 'package:layouts_flutter/card_screen.dart';
+import 'package:layouts_flutter/hotel_card_screen.dart';
+
 
 
 void main() => runApp(new MyApp());
@@ -10,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: new CardScreen(),
+      home: new ChatItemScreen(),
     );
   }
 }
