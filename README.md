@@ -1,8 +1,4 @@
-# layouts_flutter
+# Breaking layouts in Rows and Columns in Flutter
+Find the [article](https://proandroiddev.com/breaking-layouts-in-rows-and-columns-in-flutter-8ea1ce4c1316) here
 
-A new Flutter application.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
